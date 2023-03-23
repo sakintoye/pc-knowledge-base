@@ -1,0 +1,7 @@
+fastapi>=0.68.0,<0.69.0
+pydantic>=1.8.0,<2.0.0
+uvicorn>=0.15.0,<0.16.0
+requests>=2.28.2
+bs4>=0.0.1
+html2text>=2020.1.16
+llama-index>=0.4.36
